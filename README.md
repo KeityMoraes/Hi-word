@@ -1,2 +1,4 @@
-# Hi word
- Primeiro repositirio do curso de Git e Githab
+# Hello World!
+ Primeiro repositório do curso de Git e Githab
+
+Repositório criado durante aula ao vivo 
